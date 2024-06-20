@@ -10,13 +10,13 @@ App has multiple pages such as home, lesson, learn, profile. Users can make thei
 
 **Screenshots**
 
-![Screenshot of my app](./src/assets/screen1 "Screenshot of My App")
+![Screenshot of my app](./src/assets/screen1.png "Screenshot of My App")
 
-![Screenshot of my app](./src/assets/screen2 "Screenshot of My App")
+![Screenshot of my app](./src/assets/screen2.png "Screenshot of My App")
 
-![Screenshot of my app](./src/assets/screen3 "Screenshot of My App")
+![Screenshot of my app](./src/assets/screen3.png "Screenshot of My App")
 
-![Screenshot of my app](./src/assets/screen4 "Screenshot of My App")
+![Screenshot of my app](./src/assets/screen4.png "Screenshot of My App")
 
 ## Installation
 
